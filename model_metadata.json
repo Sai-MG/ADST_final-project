@@ -1,0 +1,131 @@
+{
+    "best_model": "Random Forest",
+    "target_classes": [
+        "Low Risk",
+        "Medium Risk",
+        "High Risk"
+    ],
+    "metrics": {
+        "accuracy": 0.46868008948545864,
+        "precision_weighted": 0.5244438196498853,
+        "recall_weighted": 0.46868008948545864,
+        "macro_f1": 0.48233046416233716,
+        "weighted_f1": 0.4598211366852823,
+        "roc_auc": 0.6663787688267003,
+        "confusion_matrix": [
+            [
+                319,
+                50,
+                111
+            ],
+            [
+                184,
+                249,
+                454
+            ],
+            [
+                12,
+                139,
+                270
+            ]
+        ],
+        "classification_report": {
+            "Low Risk": {
+                "precision": 0.6194174757281553,
+                "recall": 0.6645833333333333,
+                "f1-score": 0.6412060301507537,
+                "support": 480.0
+            },
+            "Medium Risk": {
+                "precision": 0.5684931506849316,
+                "recall": 0.2807215332581736,
+                "f1-score": 0.3758490566037736,
+                "support": 887.0
+            },
+            "High Risk": {
+                "precision": 0.32335329341317365,
+                "recall": 0.6413301662707839,
+                "f1-score": 0.4299363057324841,
+                "support": 421.0
+            },
+            "accuracy": 0.46868008948545864,
+            "macro avg": {
+                "precision": 0.5037546399420868,
+                "recall": 0.5288783442874303,
+                "f1-score": 0.48233046416233716,
+                "support": 1788.0
+            },
+            "weighted avg": {
+                "precision": 0.5244438196498853,
+                "recall": 0.46868008948545864,
+                "f1-score": 0.4598211366852823,
+                "support": 1788.0
+            }
+        }
+    },
+    "all_models_benchmarked": {
+        "Logistic Regression": {
+            "accuracy": 0.4105145413870246,
+            "macro_f1": 0.3964123911971315,
+            "weighted_f1": 0.331999422667246,
+            "roc_auc": 0.6568946898801872
+        },
+        "Decision Tree": {
+            "accuracy": 0.42393736017897093,
+            "macro_f1": 0.4340946233626127,
+            "weighted_f1": 0.40333938902095284,
+            "roc_auc": 0.6238223815425586
+        },
+        "Random Forest": {
+            "accuracy": 0.46868008948545864,
+            "macro_f1": 0.48233046416233716,
+            "weighted_f1": 0.4598211366852823,
+            "roc_auc": 0.6663787688267003
+        },
+        "Gradient Boosting": {
+            "accuracy": 0.5458612975391499,
+            "macro_f1": 0.45833793960639474,
+            "weighted_f1": 0.5072728888010721,
+            "roc_auc": 0.6678187176092866
+        }
+    },
+    "numeric_features": [
+        "traffic_volume",
+        "average_speed",
+        "travel_time_index",
+        "congestion_level",
+        "road_capacity_utilization",
+        "pedestrian_cyclist_count",
+        "roadwork_present",
+        "distance_to_nearest_blackspot_km",
+        "latitude",
+        "longitude",
+        "month",
+        "day_of_week",
+        "is_weekend"
+    ],
+    "categorical_features": [
+        "weather_condition",
+        "area_name"
+    ],
+    "top_feature_importances": {
+        "congestion_level": 0.18507367201097652,
+        "traffic_volume": 0.16262370709738827,
+        "pedestrian_cyclist_count": 0.10726813219310406,
+        "average_speed": 0.10602819791126254,
+        "travel_time_index": 0.07170469976027904,
+        "road_capacity_utilization": 0.06567331687058466,
+        "month": 0.06461807255406751,
+        "day_of_week": 0.0481137545361201,
+        "latitude": 0.03788651109756711,
+        "longitude": 0.0358938905025211,
+        "weather_condition_Clear": 0.013238631962254027,
+        "roadwork_present": 0.011861629608564522,
+        "is_weekend": 0.01132619904244726,
+        "weather_condition_Overcast": 0.010277586184721983,
+        "weather_condition_Rainy": 0.009991748024331804
+    },
+    "training_samples": 7148,
+    "test_samples": 1788,
+    "data_source": "Bengaluru Real-World Traffic & Accident Corridor Dataset (2022-2023)"
+}

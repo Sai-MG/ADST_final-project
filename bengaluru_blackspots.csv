@@ -1,0 +1,31 @@
+blackspot_name,latitude,longitude,corridor,btp_police_station,risk_category,historical_3yr_accidents,primary_hazard_factors
+Silk Board Junction,12.9174,77.6238,Hosur Road / ORR,Madivala,CRITICAL,84,"Converging arterial corridors, heavy pedestrian and bus transit"
+Hebbal Flyover,13.0358,77.597,Bellary Road / ORR,Hebbal,CRITICAL,76,High-speed merges from Airport expressway and Outer Ring Road
+Tin Factory Junction,12.9937,77.6606,Old Madras Road,K.R. Puram,CRITICAL,71,"Major bottle neck, metro construction zone, high pedestrian cross traffic"
+K.R. Puram Hanging Bridge,13.0031,77.6893,Old Madras Road,K.R. Puram,HIGH,65,"Heavy freight container traffic, narrow bridge merge"
+Goraguntepalya Junction,13.0285,77.5408,Tumkur Road / ORR,Peenya,CRITICAL,68,"Elevated tollway landing, heavy commercial trucks"
+Marathahalli Bridge,12.9562,77.7011,Outer Ring Road,Airport Traffic,HIGH,52,"Tech corridor IT bus congestion, mid-block pedestrian crossing"
+Bellandur EcoSpace Junction,12.926,77.6762,Outer Ring Road,HSR Layout,HIGH,49,"High volume commuter traffic, rapid acceleration zones"
+Mysore Road Tollgate / Gopalan Mall,12.9535,77.5412,Mysore Road,Byatarayanapura,HIGH,58,"High bus volume, mixed non-motorized traffic"
+Peenya 1st Stage,13.0298,77.5186,Tumkur Road,Peenya,HIGH,45,"Industrial heavy vehicle movement, poor night visibility"
+Electronic City Tollgate,12.8452,77.6602,Hosur Elevated Road,Electronic City,HIGH,43,"High speed expressway descent, two-wheeler violations"
+Yelahanka NES Circle,13.1007,77.5963,BB Road / Airport Corridor,Yelahanka,HIGH,55,High speed highway traffic entering residential suburb
+Kengeri Satellite Bus Stand,12.9116,77.4831,Mysuru Road,Kengeri,HIGH,42,"Intercity bus movement, pedestrian conflicts at depot"
+Trinity Circle,12.9734,77.6205,MG Road,Ashoknagar,MEDIUM,28,"CBD intersection, multi-phase signal conflict"
+Anil Kumble Circle,12.9756,77.6067,MG Road / BRV,Cubbon Park,MEDIUM,24,High commercial vehicle and pedestrian density
+Sony World Junction,12.9345,77.6266,100ft Road Koramangala,Adugodi,MEDIUM,31,Dense nightlife and delivery two-wheeler traffic
+Sarjapur Road Junction,12.9238,77.6432,Sarjapur Main Road,Mico Layout,HIGH,39,"Rapid urban expansion, narrow carriageway"
+Indiranagar 100ft Road,12.9719,77.6412,100 Feet Road,Indiranagar,MEDIUM,29,"Commercial curb parking, delivery bike cross traffic"
+CMH Road Junction,12.9792,77.6401,Chinmaya Mission Hospital Rd,Indiranagar,MEDIUM,22,"Narrow hospital corridor, blind lane entries"
+South End Circle,12.9382,77.5801,RV Road / Kanakapura Rd,Basavanagudi,MEDIUM,26,"Six-way convergence, metro pillar blind spots"
+Jayanagar 4th Block,12.9298,77.5826,11th Main Jayanagar,Jayanagar,LOW,18,"Pedestrian shopping zone, curb friction"
+Yeshwanthpur Circle,13.0213,77.5501,Tumkur Road / Railway Stn,Yeshwanthpur,HIGH,47,"Railway passenger overflow, freight loading"
+Ballari Road (CBI to Hebbal),13.0189,77.5882,Ballari Road,R.T Nagar,HIGH,53,"High speed arterial corridor, uncontrolled pedestrian crossings"
+Hoodi Junction,12.9918,77.7143,ITPL Road,Whitefield,MEDIUM,35,Industrial and tech park traffic convergence
+ITPL Main Road,12.9856,77.7315,Whitefield Corridor,Whitefield,MEDIUM,32,"High volume employee shuttles, U-turn conflicts"
+Majestic / Kempegowda Bus Station,12.9767,77.5713,Subhash Nagar,Upparpet,HIGH,62,"Highest pedestrian fatality corridor, BMTC/KSRTC buses"
+City Market / KR Market Flyover,12.965,77.575,Mysore Road flyover,City Market,HIGH,59,"Heavy wholesale vendor carts, pedestrian jaywalking"
+Domlur Flyover,12.9609,77.6387,Inner Ring Road,Halasur,MEDIUM,33,"Complex flyover loop merges, sudden braking"
+Kanakapura Road (Sarakki Junction),12.9056,77.5724,NH 209,Kumaraswamy Layout,HIGH,48,"Metro pillar narrow lanes, heavy tipper trucks"
+Bannerghatta Road (Dairy Circle),12.9351,77.6012,Hosur Road link,Adugodi,HIGH,46,"Underpass merge, ambulance transit conflict"
+Banasawadi Outer Ring Road,13.015,77.652,ORR,Banasawadi,HIGH,51,"Fast moving trucks at night, poor lighting stretches"

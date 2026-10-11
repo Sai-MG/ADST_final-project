@@ -1,0 +1,66 @@
+Zone,Sub-division,Station,2024-Non Fatal,2024-Fatal crashes,2024-Total crashes,station_name,station_code,latitude,longitude
+East,East,Halasooru,49,12,61,,,12.9716,77.5946
+East,East,Indiranagar,98,21,119,,,12.9716,77.5946
+East,East,Pulikeshinagar,14,4,18,,,12.9716,77.5946
+East,East,Banasawadi,59,6,65,Banasawadi,TPS - 15,13.0195027775533,77.6402194435504
+East,East,Shivajinagar,30,4,34,Shivajinagar,TPS - 29,12.9879194436417,77.6034222217947
+East,East,K G Halli,47,7,54,,,12.9716,77.5946
+,East ,Total,297,54,351,,,12.9716,77.5946
+East,Whitefield,K R Puram,207,34,241,,,12.9716,77.5946
+East,Whitefield,Airport,74,22,96,,,12.9716,77.5946
+East,Whitefield,Whitefield,145,44,189,Whitefield,TPS - 30,12.9942472220074,77.7571611107818
+East,Whitefield,Mahadevapura,89,17,106,,,12.9716,77.5946
+,Whitefield,Total,515,117,632,,,12.9716,77.5946
+East,,East Total,812,171,983,,,12.9716,77.5946
+West,Central,Cubbon Park,42,6,48,,,12.9716,77.5946
+West,Central,H.Grounds,48,7,55,,,12.9716,77.5946
+West,Central,S.S.Nagar,48,5,53,,,12.9716,77.5946
+West,Central,U.Gate,62,6,68,,,12.9716,77.5946
+West,Central,Ashokanagar,31,4,35,,,12.9716,77.5946
+West,Central,W.Garden,53,6,59,,,12.9716,77.5946
+,Central,Total,284,34,318,,,12.9716,77.5946
+West,West,Upparpet,35,11,46,Upparpet,TPS - 40,12.9745057476114,77.5750017556543
+West,West,Chickpet,33,8,41,Chickpet,TPS - 102,12.9609817288076,77.5681528496062
+West,West,City Market,31,11,42,City Market,TPS - 41,12.9707580957203,77.5736625414289
+West,West,Bytarayanapura,127,19,146,,,12.9716,77.5946
+West,West,Kengeri,146,31,177,Kengeri,TPS - 85,12.9105461664563,77.4815072286419
+West,West,Jnanabharathi,119,22,141,,,12.9716,77.5946
+,West,Total,491,102,593,,,12.9716,77.5946
+West,Vijayanagar,Vijayanagar,52,6,58,Vijayanagar,TPS - 39,12.9676958598672,77.5400378966948
+West,Vijayanagar,Magadi Road,36,4,40,Magadi Road,TPS - 43,12.9746540000128,77.5510560002498
+West,Vijayanagar,Kamakshipalya,126,18,144,Kamakshipalya,TPS - 84,12.9821666670146,77.5327008333068
+,Vijayanagar,Total,214,28,242,,,12.9716,77.5946
+West,,West Total,989,164,1153,,,12.9716,77.5946
+North,North East,R T Nagar,54,7,61,,,12.9716,77.5946
+North,North East,Hebbala,148,29,177,,,12.9716,77.5946
+North,North East,Yalahanka,186,56,242,,,12.9716,77.5946
+North,North East,Chikkajala,108,32,140,Chikkajala,TPS - 33,13.1723696635458,77.6335682558611
+North,North East,Int. Aiport,180,60,240,,,12.9716,77.5946
+North,North East,Hennuru,95,32,127,,,12.9716,77.5946
+,North East,Total,771,216,987,,,12.9716,77.5946
+North,North,Malleshwaram,56,10,66,Malleshwaram,TPS - 37,12.9966521669095,77.5696064323857
+North,North,Rajajinagar,88,11,99,Rajajinagar,TPS - 83,12.9945588996388,77.5542211644862
+North,North,Yashawanthapura,73,25,98,,,12.9716,77.5946
+North,North,Peenya,111,26,137,Peenya,TPS - 38,13.0360555191998,77.5211641802431
+North,North,Jalahalli,54,15,69,Jalahalli,TPS - 80,13.0486969233808,77.5494851412181
+North,North,Chikkabanavara,74,16,90,,,12.9716,77.5946
+,North,Total,456,103,559,,,12.9716,77.5946
+North,,North Total,1227,319,1546,,,12.9716,77.5946
+South,South East,Adugodi,45,5,50,Adugodi,TPS - 12,12.9415222221275,77.608588888716
+South,South East,Madivala,81,21,102,Madivala,TPS - 25,12.9209916672212,77.6207250004286
+South,South East,Micolayout,73,23,96,,,12.9716,77.5946
+South,South East,Hulimavu,61,10,71,Hulimavu,TPS - 21,12.8565111111396,77.5889944438037
+,South East,Total,260,59,319,,,12.9716,77.5946
+South,South,Chamarajpet,15,0,15,,,12.9716,77.5946
+South,South,Basavanagudi,82,8,90,Basavanagudi,TPS - 46,12.9420741309031,77.5742712536436
+South,South,Jayanagar,73,12,85,Jayanagar,TPS - 44,12.9285800003268,77.5813900000882
+South,South,Banashankari,68,11,79,Banashankari,TPS - 86,12.9289878325586,77.5677911256067
+South,South,K S Layout,90,20,110,,,12.9716,77.5946
+South,South,Thalagattapura,104,20,124,,,12.9716,77.5946
+,South,Total,432,71,503,,,12.9716,77.5946
+South,HSR Layout,HSR Layout,49,12,61,HSR Layout,TPS - 109,12.9219612532365,77.6616669484753
+South,HSR Layout,Electronic City,136,42,178,Electronic City,TPS - 17,12.8391916668387,77.6617833330928
+South,HSR Layout,Bellanduru,43,14,57,,,12.9716,77.5946
+,HSR Layout,Total,228,68,296,,,12.9716,77.5946
+South,,South Total,920,198,1118,,,12.9716,77.5946
+Total,,Grand Total,3948,852,4800,,,12.9716,77.5946
